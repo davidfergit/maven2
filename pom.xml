@@ -28,7 +28,7 @@
       <id>idCualquiera</id>
       <activation>
         <os>
-          <family>unix</family>
+          <family>windows</family>
         </os>
       </activation>
       <build> 
