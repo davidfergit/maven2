@@ -28,7 +28,7 @@
       <id>Mi identificador</id>
       <activation>
         <os>
-          <family>windows</family>
+          <family>unix</family>
         </os>
       </activation>
       <build>
